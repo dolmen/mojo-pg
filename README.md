@@ -49,7 +49,7 @@ drop table visitors;
 
     $ curl -L https://cpanmin.us | perl - -M https://cpan.metacpan.org -n Mojo::Pg
 
-  We recommend the use of a [Perlbrew](http://perlbrew.pl) environment.
+  We recommend the use of a [Perlbrew](https://perlbrew.pl) or [plenv](https://github.com/tokuhirom/plenv) environment.
 
 ## Want to know more?
 
